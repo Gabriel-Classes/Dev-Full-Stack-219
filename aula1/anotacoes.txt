@@ -1,0 +1,18 @@
+O vscode é a ferramenta que iremos utilizar para desenvolver os códigos 
+
+O html é uma linguagem de marcação 
+
+O que significa que ele vai marcar toda a minha página
+
+tudo que tiver entre chaves vai ser chamado de tags
+
+Ex: --> <h1>    </h1>
+
+Temos na grande maioria tags de abertura e fechamento 
+
+Algumas tags tipo --> img não tem fechamento 
+
+Não tem essa necessidade então dizemos que ela é uma tag de autofechamento
+
+
+
