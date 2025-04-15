@@ -1,0 +1,187 @@
+https://dontpad.com/219-14-04
+
+
+kahoot.it
+
+
+Boaaaaa noiteee a todos!
+
+Token de hoje 8777
+
+HTML ----> 
+HyperText Markup language
+
+Linguagem de marcação
+
+oque são tags? é tudo que tiver entre chaves exemplo --><h1>
+
+<h1> ---> tag de abertura 
+
+</h1> ---> tag de fechamento
+
+
+
+vscode --> IDE interface de desenvolvimento
+
+
+h1 ---> ser o mais importante
+
+header --> tem a função de ser o cabeçalho da minha página
+
+article ---> Conteúdos independentes , exemplo de blogs
+
+nav ---> tem a função de armazenar links de navegação
+
+footer ---> tem a função de ser o rodapé da página
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Revisao de cria</title>
+</head>
+<body>
+    <!-- Ser o mais importante-->
+     
+    <h1> Olá Mundo</h1>
+    <h2>Sou subtitulo</h2>
+    <!-- Tag de autofechameto 
+     -->
+<!-- 
+    <img src="https://preview.redd.it/madruga-of-war-v0-p26w0pricgxa1.jpg?width=640&crop=smart&auto=webp&s=29174478e047f6c948abd1fadebb544d985ccbe0" alt="seu madruga of war">
+
+    <img src="snoop_jake.jpg" alt="snoop drake"> -->
+
+    <!-- ancora -->
+    
+    <a href="https://github.com/GabrielSouto19" target="_blank">perfil Github</a>
+    
+    
+    <p>Eu sou <b>forte</b></p>
+    <p>Eu sou <strong>forte</strong></p>
+    <!-- Unordened list -->
+    <ul>
+        <li>Picanha</li>
+        <li>Cachaça</li>
+        <li>Carne de soja</li>
+        <li>Mandioca</li>
+    </ul>
+    <!-- ordened list -->
+    <ol>
+        <!-- list item -->
+        <li>Charles do Bronks</li>
+        <li>Anderson Silva</li>
+        <li>Popó</li>
+        <li>bambam</li>
+
+    </ol>
+
+    
+</body>
+</html>
+
+========================================================§§§§============================================
+
+LISTAS ORDENADAS E NÃO ORDENADAS
+
+1 - Façam uma lista dos 3 melhores filmes das categorias
+
+Romance 
+Dorama
+Ficção
+Ação 
+Suspense
+Comédia
+Comédia Romântica 
+ 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Revisao de cria</title>
+</head>
+<body>
+    <!-- Ser o mais importante-->
+     
+    <h1> Olá Mundo</h1>
+    <h2>Sou subtitulo</h2>
+    <!-- Tag de autofechameto 
+     -->
+
+    <img src="https://preview.redd.it/madruga-of-war-v0-p26w0pricgxa1.jpg?width=640&crop=smart&auto=webp&s=29174478e047f6c948abd1fadebb544d985ccbe0" alt="seu madruga of war">
+
+    <img src="snoop_jake.jpg" alt="snoop drake" width="250px">
+
+    <!-- ancora -->
+    
+    <a href="https://github.com/GabrielSouto19" target="_blank">perfil Github</a>
+    
+    
+    <p>Eu sou <b>forte</b></p>
+    <p>Eu sou <strong>forte</strong></p>
+    <!-- Unordened list -->
+    <ul>
+        <li>Picanha</li>
+        <li>Cachaça</li>
+        <li>Carne de soja</li>
+        <li>Mandioca</li>
+    </ul>
+    <!-- ordened list -->
+    <ol>
+        <!-- list item -->
+        <li>Charles do Bronks</li>
+        <li>Anderson Silva</li>
+        <li>Popó</li>
+        <li>bambam</li>
+
+    </ol>
+    
+</body>
+</html>
+
+
+=========================================================================
+
+
+TABELAS
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <table border="1">
+        <!-- table row -->
+        <tr>
+            <!-- table data -->
+            <td>nome</td>
+            <td>idade</td>
+            <td>profissao</td>
+        </tr>
+        
+        <tr>
+            <td>João Caminhão</td>
+            <td>50</td>
+            <td>Desenvolvedor Full-Stack</td>
+        </tr>
+
+
+
+    </table>
+    
+</body>
+</html>
+
+=========================================================================================
+
+Atividade
+
+
