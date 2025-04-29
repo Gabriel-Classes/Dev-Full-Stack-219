@@ -1,0 +1,229 @@
+MARQUEM PRESENÇA!!!!
+
+TOKEN DE HOJE: 3955
+
+AOS FALTANTES DAS AULAS PASSADAS, MARQUEM REPOSIÇÃO!!!!
+
+=====================================================
+dúvidas anônimas
+ 
+Galera, se juntar toda vez que o prof fala ‘galera’, já dá pra montar uma nova turma chamada Galeration.kakakakakakkakakakkaka 
+
+Manual da aula: Regra nº1 Se perdeu no assunto? Relaxa, em breve ele vai chamar ‘galera’ de novo.kakakakkakkakaa
+
+Galera Tamo Atrassados Hein 
+
+Aula de hoje patrocinada por: Instituto Brasileiro da Galera.
+
+======================================================
+
+
+dontpad da aula passada
+https://dontpad.com/219-14-04
+
+
+Faça um top 3 dos melhores atletas de 3 esportes distintos
+opções
+- Futebol
+- Basquete
+- Volei
+- Handbol
+- xadrez
+=========================================================
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <ul>
+        <li>Xadrex
+            <ol>
+                <li>Bob fisher</li>
+                <li>Kasparov</li>
+                <li>Magnus Calsen</li>
+            </ol>
+        </li>
+
+        <li>Futebol
+            <ol>
+                <li>Romário</li>
+                <li>Fenônemo</li>
+                <li>Ronaldinho Gaúcho</li>
+            </ol>
+        </li>
+        <li>F1
+            <ol>
+                <li>SENNA</li>
+                <li>Massa</li>
+                <li>scheumaker</li>
+            </ol>
+        </li>
+    </ul>
+
+</body>
+</html>
+==========================================================================
+
+TABELAS
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <table border="">
+        <!-- para fazer uma nova linha -->
+         <tr>
+            <td>Cia Aérea</td>
+            <td>horário</td>
+            <td>Preço</td>
+         </tr>
+         <tr>
+            <td>Azul</td>
+            <td>11:10</td>
+            <td>2500</td>
+         </tr>
+         <tr>
+            <td colspan="3">Preço baixo </td>
+         </tr>
+    </table>
+    
+</body>
+</html>	
+=======================================================================
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Tabela</th>
+                <th>Hora de Saída</th>
+                <th>Hora de chegada</th>
+                <th>classe do onibus</th>
+                <th>Tarifa normal </th>
+                <th>Frequencia</th>
+            </tr>
+
+        </thead>
+        <tbody>
+            <tr>
+                <td>Cidade A </td>
+                <td>06:00</td>
+                <td>14:00</td>
+                <td>Convencional</td>
+                <td>20</td>
+                <td>Diária</td>
+            </tr>
+            <tr>
+                <td>Cidade A </td>
+                <td>06:00</td>
+                <td>14:00</td>
+                <td>Convencional</td>
+                <td>20</td>
+                <td>Diária</td>
+            </tr>
+            <tr>
+                <td>Cidade A </td>
+                <td>06:00</td>
+                <td>14:00</td>
+                <td>Convencional</td>
+                <td>20</td>
+                <td>Diária</td>
+            </tr>
+            <tr>
+                <td>Cidade A </td>
+                <td>06:00</td>
+                <td>14:00</td>
+                <td>Convencional</td>
+                <td>20</td>
+                <td>Diária</td>
+            </tr>
+            <tr>
+                <td>Cidade A </td>
+                <td>06:00</td>
+                <td>14:00</td>
+                <td>Convencional</td>
+                <td>20</td>
+                <td>Diária</td>
+            </tr>
+            <tr>
+                <td>Cidade A </td>
+                <td>06:00</td>
+                <td>14:00</td>
+                <td>Convencional</td>
+                <td>20</td>
+                <td>Diária</td>
+            </tr>
+            <tr>
+                <td>Cidade A </td>
+                <td>06:00</td>
+                <td>14:00</td>
+                <td>Convencional</td>
+                <td>20</td>
+                <td>Diária</td>
+            </tr>
+            <tr>
+                <td colspan="6">Horários dos Onibus </td>
+                
+            </tr>
+            
+        </tbody>
+    </table>
+    
+</body>
+</html>
+===========================================================================================
+
+
+Formulários
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <form action="#">
+
+        <label for="nome">Nome:</label>
+        <input type="" id="nome" placeholder="Digite seu nome:">
+        <br>
+        <!-- break row -->
+
+        <label for="">senha</label>
+        <input type="password" placeholder="Digite sua senha:">
+        <br>
+
+        
+        <button type="button">Enviar</button>
+    </form>
+    
+</body>
+</html>
+=========================================================================================================================
+
+Façam um formulário para receber os  dados a seguir :
+
+- nome 
+- cpf
+- data nascimento
+- arquivo
+- altura
+- senha
+- email
