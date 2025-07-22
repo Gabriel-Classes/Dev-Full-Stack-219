@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <script>
+        // Faça um sistema de login que RECEBA o nome e a senha,
+        // SE o nome for admin E a senha for 1234, EXIBA a mensagem
+        // "Seja bem vindo "
+        // CASO CONTRÁRIO  EXIBA 
+        // "Acesso Negado"
+        // RECEBA ---> PROMPT()
+        // EXIBA ---> console.log()
+        // SE -------> if()
+        // CASO CONTRÁRIO -------> else()
+        // ENTRADA
+        let resultado 
+            
+        for(let i = 0 ; i < 3; i+=1){
+            let nome = prompt("Digite seu nome:")
+            let senha = prompt("Digite sua senha:")
+            if(nome == "admin" && senha == "1234"){
+                console.log("Login Efetuado")
+                alert("Login Efetuado")
+                break
+            }else{
+                console.log("Acesso Negado")   
+            }
+            }
+            // Implementar a quantidade máxima de tentativas de 3
+        
+        // EXIBIÇÃO
+        console.log(resultado)
+
+        
+    </script>
+
+
+    <script src="script.js"></script>
+    
+</body>
+</html>
